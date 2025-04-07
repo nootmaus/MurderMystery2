@@ -93,8 +93,8 @@ local TopFrame = Instance.new("Frame")
 local Title_17 = Instance.new("TextLabel")
 local MinimizeButton = Instance.new("TextButton")
 
-MM2AdminPanel.Name = "MurderMystery 2"
-MM2AdminPanel.Parent = game.CoreGui
+MurderMystery 2.Name = "MurderMystery 2"
+MurderMystery 2.Parent = game.CoreGui
 MM2AdminPanel.ResetOnSpawn = false
 
 MainFrame.Name = "MainFrame"
